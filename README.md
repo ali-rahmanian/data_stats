@@ -3,5 +3,5 @@
 In this project, all the experiments and the steps done to do understand some interesting statistics in Milano Weather Station (available on https://dandelion.eu/datagems/SpazioDati/milano-weather-station-data/resource/). Data  are provided in a respective order in the following sections. Python is used for implementation and the source code is available on GitHub. 
 Please refer to README.PDF for more explanation.
 Road map:
-  Data_Stats: Python source code for the project.
-  Diagrams: High-quality diagrams of all experiments done in the project.
+  \nData_Stats: Python source code for the project.
+  \nDiagrams: High-quality diagrams of all experiments done in the project.
